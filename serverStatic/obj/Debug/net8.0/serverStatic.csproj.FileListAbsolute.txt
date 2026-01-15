@@ -1,0 +1,15 @@
+C:\Users\filip\source\repos\test\serverStatic\obj\Debug\net8.0\serverStatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\source\repos\test\serverStatic\obj\Debug\net8.0\serverStatic.AssemblyInfoInputs.cache
+C:\Users\filip\source\repos\test\serverStatic\obj\Debug\net8.0\serverStatic.AssemblyInfo.cs
+C:\Users\filip\source\repos\test\serverStatic\obj\Debug\net8.0\serverStatic.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\test\serverStatic\obj\Debug\net8.0\serverStatic.sourcelink.json
+C:\Users\filip\source\repos\test\serverStatic\bin\Debug\net8.0\serverStatic.exe
+C:\Users\filip\source\repos\test\serverStatic\bin\Debug\net8.0\serverStatic.deps.json
+C:\Users\filip\source\repos\test\serverStatic\bin\Debug\net8.0\serverStatic.runtimeconfig.json
+C:\Users\filip\source\repos\test\serverStatic\bin\Debug\net8.0\serverStatic.dll
+C:\Users\filip\source\repos\test\serverStatic\bin\Debug\net8.0\serverStatic.pdb
+C:\Users\filip\source\repos\test\serverStatic\obj\Debug\net8.0\serverStatic.dll
+C:\Users\filip\source\repos\test\serverStatic\obj\Debug\net8.0\refint\serverStatic.dll
+C:\Users\filip\source\repos\test\serverStatic\obj\Debug\net8.0\serverStatic.pdb
+C:\Users\filip\source\repos\test\serverStatic\obj\Debug\net8.0\serverStatic.genruntimeconfig.cache
+C:\Users\filip\source\repos\test\serverStatic\obj\Debug\net8.0\ref\serverStatic.dll
