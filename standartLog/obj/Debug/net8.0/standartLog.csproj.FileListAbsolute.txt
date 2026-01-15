@@ -1,0 +1,15 @@
+C:\Users\filip\source\repos\test\standartLog\bin\Debug\net8.0\standartLog.exe
+C:\Users\filip\source\repos\test\standartLog\bin\Debug\net8.0\standartLog.deps.json
+C:\Users\filip\source\repos\test\standartLog\bin\Debug\net8.0\standartLog.runtimeconfig.json
+C:\Users\filip\source\repos\test\standartLog\bin\Debug\net8.0\standartLog.dll
+C:\Users\filip\source\repos\test\standartLog\bin\Debug\net8.0\standartLog.pdb
+C:\Users\filip\source\repos\test\standartLog\obj\Debug\net8.0\standartLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\source\repos\test\standartLog\obj\Debug\net8.0\standartLog.AssemblyInfoInputs.cache
+C:\Users\filip\source\repos\test\standartLog\obj\Debug\net8.0\standartLog.AssemblyInfo.cs
+C:\Users\filip\source\repos\test\standartLog\obj\Debug\net8.0\standartLog.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\test\standartLog\obj\Debug\net8.0\standartLog.sourcelink.json
+C:\Users\filip\source\repos\test\standartLog\obj\Debug\net8.0\standartLog.dll
+C:\Users\filip\source\repos\test\standartLog\obj\Debug\net8.0\refint\standartLog.dll
+C:\Users\filip\source\repos\test\standartLog\obj\Debug\net8.0\standartLog.pdb
+C:\Users\filip\source\repos\test\standartLog\obj\Debug\net8.0\standartLog.genruntimeconfig.cache
+C:\Users\filip\source\repos\test\standartLog\obj\Debug\net8.0\ref\standartLog.dll

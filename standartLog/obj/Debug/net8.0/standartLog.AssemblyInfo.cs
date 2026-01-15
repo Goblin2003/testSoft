@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("serverStatic")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("standartLog")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0cfd52f9eee0d86ec45294120468c3779e49109")]
-[assembly: System.Reflection.AssemblyProductAttribute("serverStatic")]
-[assembly: System.Reflection.AssemblyTitleAttribute("serverStatic")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb5dd08ee001de6f9c178bcea71ed9b2f27a5640")]
+[assembly: System.Reflection.AssemblyProductAttribute("standartLog")]
+[assembly: System.Reflection.AssemblyTitleAttribute("standartLog")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
